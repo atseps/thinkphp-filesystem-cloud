@@ -2,7 +2,10 @@
 
 namespace thans\filesystem;
 
+<<<<<<< HEAD
 use InvalidArgumentException;
+=======
+>>>>>>> dad577fc6bb356e0e3075795ebcbe56d625ce8a4
 use think\filesystem\Driver;
 use think\helper\Arr;
 use think\Manager;
